@@ -6,5 +6,5 @@ zen.highlight provides syntax highliting for <code> for the Plone CMS via the hi
 To-do
 =====
 
-- [ ] suppress spellcheck in code blocks
-- [ ] change default highlight color scheme
+suppress spellcheck in code blocks
+change default highlight color scheme
