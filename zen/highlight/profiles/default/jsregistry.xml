@@ -9,4 +9,12 @@
     inline="False"
     />
 
+  <javascript
+    id="++resource++zen.highlight/highlight_init.js"
+    cacheable="True" compression="safe"
+    authenticated="True" cookable="True"
+    enabled="True" expression=""
+    inline="False"
+    />
+
 </object>
